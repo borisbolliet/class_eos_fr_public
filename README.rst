@@ -48,7 +48,7 @@ Clean up and Compile
 
 (You may need to do a ‘$ sudo make’.) 
 
-The code **class_sz** runs in parallel, so you need a **gcc** compiler that is not **clang**.   
+The code **class_eos_fr** runs in parallel, so you need a **gcc** compiler that is not **clang**.   
 
 The previous commands compile both the executable and the python wrapper. 
 If you do not want the **classy** python module do ‘$ make class’.
